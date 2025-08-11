@@ -4,9 +4,9 @@ Pages légales pour l'application Yuyan, hébergées sur GitHub Pages.
 
 ## URLs
 
-- Page d'accueil : https://linfeilong.github.io/yuyan-legal/
-- Conditions d'utilisation : https://linfeilong.github.io/yuyan-legal/terms
-- Politique de confidentialité : https://linfeilong.github.io/yuyan-legal/privacy
+- Page d'accueil : https://yuyan.ovh/
+- Conditions d'utilisation : https://yuyan.ovh/terms
+- Politique de confidentialité : https://yuyan.ovh/privacy
 
 ## Configuration GitHub Pages
 
